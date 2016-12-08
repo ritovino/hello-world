@@ -1,2 +1,3 @@
 # hello-world
-Tutorial / scratch space
+
+Hello, this is RitoVino!
